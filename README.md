@@ -65,7 +65,7 @@ wget -q https://raw.githubusercontent.com/ataaxd/vvip/main/update.sh && chmod +x
 ```
 
 ## TAMPILAN MENU SCRIPT
-<img width="100%" alt="image" src="https://github.com/gemilangkinasih/Apex/assets/121762056/cfc25f09-0cee-49de-81a1-28fde48c1c00">
+<img width="100%" alt="image" src="https://github.com/ataaxd/vvip/assets/151380638/758996e6-cf1c-47d2-8333-dd021e59c197">
 
 ## `! WARNING !`
 Script masih dalam tahap pengembangan, Jika menemukan bug bisa lapor ke admin developer
