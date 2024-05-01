@@ -24,7 +24,7 @@ wget -q https://raw.githubusercontent.com/ataaxd/vvip/main/update.sh && chmod +x
 
 
 ## `WAJIB IZIN IP, SILAHKAN HUBUNGI ADMIN !`
-<br><br><a href="https://wa.me/6285248701130" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
+<br><br><a href="https://wa.me/6282129004880" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
 
 
 ## TESTED ON OS
