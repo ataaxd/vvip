@@ -48,7 +48,7 @@ wget -q https://raw.githubusercontent.com/ataaxd/vvip/main/update.sh && chmod +x
 - VMESS GRPC 443
 - VMESS NONTLS 80
 - SSH WS / TLS 443
-- SSH NON TLS 8880
+- SSH NON TLS 8880 / 80
 - SSH UDP 1-65535
 - OVPN SSL/TCP 1194
 - SLOWDNS 5300
